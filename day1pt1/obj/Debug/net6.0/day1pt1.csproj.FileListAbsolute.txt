@@ -1,0 +1,15 @@
+C:\Programmering\Projekt\AOC\day1pt1\bin\Debug\net6.0\day1pt1.exe
+C:\Programmering\Projekt\AOC\day1pt1\bin\Debug\net6.0\day1pt1.deps.json
+C:\Programmering\Projekt\AOC\day1pt1\bin\Debug\net6.0\day1pt1.runtimeconfig.json
+C:\Programmering\Projekt\AOC\day1pt1\bin\Debug\net6.0\day1pt1.dll
+C:\Programmering\Projekt\AOC\day1pt1\bin\Debug\net6.0\day1pt1.pdb
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\day1pt1.csproj.AssemblyReference.cache
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\day1pt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\day1pt1.AssemblyInfoInputs.cache
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\day1pt1.AssemblyInfo.cs
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\day1pt1.csproj.CoreCompileInputs.cache
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\day1pt1.dll
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\refint\day1pt1.dll
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\day1pt1.pdb
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\day1pt1.genruntimeconfig.cache
+C:\Programmering\Projekt\AOC\day1pt1\obj\Debug\net6.0\ref\day1pt1.dll
